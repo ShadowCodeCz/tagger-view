@@ -1,0 +1,121 @@
+[
+    {
+        "tags": [
+            "mag@1RYQhc",
+            "datetime@2024.04.22T11:47:54",
+            "id@work",
+            "timestamp@1713779274.557639",
+            "year.month@2024.04",
+            "month@April",
+            "machine.platform.system@Windows",
+            "machine.platform.release@10",
+            "machine.platform.version@10.0.22631",
+            "machine.platform.architecture@AMD64",
+            "machine.platform.processor@AMD64-Family-25-Model-80-Stepping-0,-AuthenticAMD",
+            "machine.socket.hostname@LAPTOP-T1UQ1IIS",
+            "machine.socket.ip.address@100.126.24.180",
+            "machine.socket.mac.address@ca:94:02:a8:f3:fb",
+            "note",
+            "bitfinity"
+        ],
+        "text": [
+            "Prijezd do Zlina 11:30 (zpozdeni AZ servis)"
+        ]
+    },
+    {
+        "tags": [
+            "mag@1RYQhc",
+            "datetime@2024.04.22T11:47:54",
+            "id@work",
+            "timestamp@1713779274.557639",
+            "year.month@2024.04",
+            "month@April",
+            "machine.platform.system@Windows",
+            "machine.platform.release@10",
+            "machine.platform.version@10.0.22631",
+            "machine.platform.architecture@AMD64",
+            "machine.platform.processor@AMD64-Family-25-Model-80-Stepping-0,-AuthenticAMD",
+            "machine.socket.hostname@LAPTOP-T1UQ1IIS",
+            "machine.socket.ip.address@100.126.24.180",
+            "machine.socket.mac.address@ca:94:02:a8:f3:fb",
+            "note",
+            "bitfinity"
+        ],
+        "text": [
+            "Michal vysvetlenii websocket service testu"
+        ]
+    },
+    {
+        "tags": [
+            "mag@1RYQhc",
+            "datetime@2024.04.22T11:47:54",
+            "id@work",
+            "timestamp@1713779274.557639",
+            "year.month@2024.04",
+            "month@April",
+            "machine.platform.system@Windows",
+            "machine.platform.release@10",
+            "machine.platform.version@10.0.22631",
+            "machine.platform.architecture@AMD64",
+            "machine.platform.processor@AMD64-Family-25-Model-80-Stepping-0,-AuthenticAMD",
+            "machine.socket.hostname@LAPTOP-T1UQ1IIS",
+            "machine.socket.ip.address@100.126.24.180",
+            "machine.socket.mac.address@ca:94:02:a8:f3:fb",
+            "note",
+            "bitfinity"
+        ],
+        "text": [
+            "BOT-1225",
+            "BOT-1230",
+            "Zamergovani a diskuze kolem toho",
+            "",
+            "Adam, reseni pro  single calculate vraci \"not enought orders\". Duvod orderInfo.amountIn = 0"
+        ]
+    },
+    {
+        "tags": [
+            "mag@1RYQhc",
+            "datetime@2024.04.22T11:47:54",
+            "id@work",
+            "timestamp@1713779274.557639",
+            "year.month@2024.04",
+            "month@April",
+            "machine.platform.system@Windows",
+            "machine.platform.release@10",
+            "machine.platform.version@10.0.22631",
+            "machine.platform.architecture@AMD64",
+            "machine.platform.processor@AMD64-Family-25-Model-80-Stepping-0,-AuthenticAMD",
+            "machine.socket.hostname@LAPTOP-T1UQ1IIS",
+            "machine.socket.ip.address@100.126.24.180",
+            "machine.socket.mac.address@ca:94:02:a8:f3:fb",
+            "note",
+            "bitfinity"
+        ],
+        "text": [
+            "Zaucovani se s cloudem (nasazeni po merge). Ziskani extra prav."
+        ]
+    },
+    {
+        "tags": [
+            "mag@1RYQhc",
+            "datetime@2024.04.22T11:47:54",
+            "id@work",
+            "timestamp@1713779274.557639",
+            "year.month@2024.04",
+            "month@April",
+            "machine.platform.system@Windows",
+            "machine.platform.release@10",
+            "machine.platform.version@10.0.22631",
+            "machine.platform.architecture@AMD64",
+            "machine.platform.processor@AMD64-Family-25-Model-80-Stepping-0,-AuthenticAMD",
+            "machine.socket.hostname@LAPTOP-T1UQ1IIS",
+            "machine.socket.ip.address@100.126.24.180",
+            "machine.socket.mac.address@ca:94:02:a8:f3:fb",
+            "note",
+            "bitfinity"
+        ],
+        "text": [
+            "Odchod 19:40"
+        ]
+    }
+]
